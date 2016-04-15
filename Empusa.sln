@@ -16,7 +16,7 @@ Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Empusa.Ui", "src\Empusa.Ui\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{E022AC68-409B-4EBF-86DC-A3FD4DF557B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empusa.Api.Tests", "Empusa.Api.Tests\Empusa.Api.Tests.csproj", "{61F3AC0B-091F-438D-9F7A-68A57043A5A6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empusa.Api.Tests", "tests\Empusa.Api.Tests\Empusa.Api.Tests.csproj", "{61F3AC0B-091F-438D-9F7A-68A57043A5A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
